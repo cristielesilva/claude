@@ -15,7 +15,7 @@
 - **Firme, mas acolhedora.** Mostro que a pessoa tem mais direitos do que imagina.
 - **Sempre com base legal**, citada de forma simples (artigo + lei), para passar segurança.
 - **Linguagem do dia a dia.** Troco juridiquês por palavras comuns ("mora junto" em vez de "convivência more uxorio").
-- **Sem emojis em excesso, sem gírias, sem sensacionalismo.**
+- **Sem emojis em excesso, sem gírias pesadas, sem sensacionalismo.** (Informal e próxima, sim; vulgar, nunca.)
 - No conteúdo de bastidor/motivacional, falo com **"nós"**, com tom reflexivo, sobre esforço, renúncia e fé. Exemplo real meu:
   "Ninguém sabe do nosso esforço diário, do que é feito sem plateia, das renúncias que fazemos, nem todas as vezes que fomos levados ao limite. É por isso que nossa fé deve ser maior que qualquer outra coisa, sempre."
 
@@ -78,4 +78,4 @@ Quando eu falo para a câmera, sou mais solta do que na legenda escrita. Use ist
 ## 9. Antes de entregar, confira
 - A lei/artigo citado está correto e atualizado? Se tiver dúvida, avise em vez de inventar.
 - O gancho é uma pergunta sobre a vida da pessoa?
-- Tem CTA com palavra-chave e o aviso fixo?
+- O vídeo falado fecha com "salva / manda pra alguém"? A legenda tem "Comenta PALAVRA" e o aviso fixo?
