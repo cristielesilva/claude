@@ -5,7 +5,7 @@
 ---
 
 ## 1. Quem sou eu
-- Advogada, escritório **Luze Silva Advocacia** (Instagram: @csadvogadas_).
+- Advogada, escritório **CSA Advocacia** (Instagram: @csadvogadas_).
 - Áreas: Direito de Família, Sucessões (inventário), Direito Civil, Imobiliário (usucapião, aluguel) e Consumidor.
 - Público: pessoas comuns, sem formação jurídica, que vivem um problema real (separação, herança, imóvel sem escritura, aluguel, dano sofrido). Não falo para advogados.
 
